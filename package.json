@@ -1,0 +1,13 @@
+{
+    "name": "alohajunk",
+    "mastertemplate": "boilerplate-code-django",
+    "version": "1.0.6",
+    "description": "Template project ",
+    "scripts": {},
+    "author": "Aloha Junk",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
